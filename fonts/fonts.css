@@ -1,0 +1,21 @@
+@font-face {
+	font-family: 'Montserrat';
+	src: url('Montserrat-Regular.eot');
+	src: url('Montserrat-Regular.woff') format('woff'),
+		 url('Montserrat-Regular.ttf') format('truetype'),
+		 url('Montserrat-Regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'DroidSans';
+	src: url('DroidSans.eot');
+	src: url('DroidSans.woff') format('woff'),
+	url('DroidSans.ttf') format('truetype'),
+	url('DroidSans.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+

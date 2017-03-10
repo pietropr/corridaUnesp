@@ -1,0 +1,33 @@
+.lista {
+
+	.scroll {
+		margin-top: 40px;
+		height: 300px;
+		border: 1px solid #ccc !important;
+		overflow: scroll;
+
+		table {
+			margin-top: 0%;
+		}
+	}
+
+
+	.center {
+		text-align: center !important;
+		display: block;
+
+		margin-left: -20px;
+
+		span {
+			margin-right: 3px;
+		}
+	}
+
+	.deletados {
+		max-width: 250px;
+		width: 100%;
+		text-align: center;
+		margin: auto;
+
+	}
+}

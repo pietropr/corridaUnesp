@@ -1,0 +1,141 @@
+@import url(../fonts/fonts.css);
+.panel-restrito{
+	width: 500px;
+	margin-top: 15px;}
+.nome-software{
+	margin-top: 2.5%;
+	color: rgba(0,140,7,1.00);
+}
+	.nome-software p{
+		color: rgba(0,0,0,1.00);
+	}
+.login{
+	margin-top: 2.5%;
+	width: 500px;
+	border-radius: 0;
+}
+	.login-titulo{
+		margin-radius: 0;
+	}
+		.campos-login{
+			padding-top: -10px !important;
+		}
+		.campos-login .label-campos{
+			margin-top: 5px;
+			float: left;
+		}		
+		.campos-login input{
+			border-radius: 0;
+			margin-bottom: 5px;
+			width: 475;
+		}
+		.campos-login .button-acessar{
+			width: 475px;
+			background-color: rgba(0,140,7,1.00);
+			color: rgba(255,255,255,1.00);
+		}		
+.menu {
+  margin: 0;
+  padding: 0;
+  background-color: white; }
+  .menu .col-sm-6 {
+    margin-top: 1%;
+    padding: 20px; }
+	.menu .col-sm-6 .info-corrida{
+		border: 1px dashed #ccc;
+		margin-bottom: 25px;
+		text-align: left;
+		padding-left: 10px;
+		padding-top: 10px;
+		border-radius: 10px;
+		margin-top: 25px; }
+    .menu .col-sm-6 .jumbotron {
+      padding-bottom: 80px; }
+      .menu .col-sm-6 .jumbotron h3 {
+        margin-top: -30px;
+        padding-bottom: 60px; }
+      .menu .col-sm-6 .jumbotron .botoes .thumbnail {
+        height: 40px;
+        display: inline-block;
+        width: 35%;
+        padding-top: 8px;
+		text-align: left;
+		padding-left: 15px; }
+      .menu .col-sm-6 .jumbotron .botoes a.btn-danger {
+        clear: both;
+        display: inline-block;
+        width: 70%;
+        height: 40px;
+        padding-top: 10px; }
+	  .menu .col-sm-6 .jumbotron .botoes a.but-largada {
+		background-color: rgba(2,209,0,1.00);
+		border-color: rgba(2,209,0,1.00);
+		margin-bottom: 10px;
+		}
+
+a, a:hover, a:visited, a:focus {
+  text-decoration: none; }
+.alteracao .row form fieldset{
+	margin-bottom: 10px !important;
+}
+.cadastro h3 {
+  margin-bottom: 25px;
+  text-align: center; }
+.cadastro .col-sm-6 {
+  padding-bottom: 50px;
+  padding-left: 40px;
+  margin-top: 30px; }
+.cadastro form p:nth-child(5) {
+  clear: both;
+  float: none !important; }
+  .cadastro form p:nth-child(5) input[type=submit] {
+    width: 49% !important;
+    display: inline-block; }
+  .cadastro form p:nth-child(5) a {
+    display: inline-block;
+    width: 50%;
+    margin-top: -1px; }
+.afericao .jumbotron {
+  padding-top: 0 !important;
+  padding-bottom: 30px !important;
+  border-radius: 15px;
+  margin-top: 10%;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24); }
+  .afericao .jumbotron .interna {
+    padding: 30px; }
+    .afericao .jumbotron .interna h4 {
+      text-align: center; }
+    .afericao .jumbotron .interna hr {
+      border-top: 1px solid #ccc !important; }
+    .afericao .jumbotron .interna p {
+      font-size: 14px;
+      text-align: justify; }
+.afericao a {
+  text-align: center !important;
+  display: block;
+  margin-left: -20px; }
+  .afericao a span {
+    margin-right: 3px; }
+.lista .scroll {
+  margin-top: 40px;
+  height: 300px;
+  border: 1px solid #ccc !important;
+  overflow: scroll; }
+  .lista .scroll table {
+    margin-top: 0%; }
+.lista .center {
+  text-align: center !important;
+  display: block;
+  margin-left: -20px; }
+  .lista .center span {
+    margin-right: 3px; }
+.lista .deletados {
+  max-width: 250px;
+  width: 100%;
+  text-align: center;
+  margin: auto; }
+
+
+
+
+/*# sourceMappingURL=style.css.map */

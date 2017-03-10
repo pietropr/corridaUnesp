@@ -1,0 +1,37 @@
+.afericao {
+	.jumbotron {
+		padding-top: 0 !important;
+		padding-bottom: 30px !important;
+		border-radius: 15px;
+		margin-top: 10%;
+		box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+		.interna {
+			padding: 30px;
+
+			h4 {
+				text-align: center;
+			}
+
+			hr {
+				border-top: 1px solid #ccc !important;
+			}
+
+			p {
+				font-size: 14px;
+				text-align: justify;
+			}
+		}
+	}
+
+	a {
+		text-align: center !important;
+		display: block;
+
+		margin-left: -20px;
+
+		span {
+			margin-right: 3px;
+		}
+
+	}
+}

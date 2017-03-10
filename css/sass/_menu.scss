@@ -1,0 +1,40 @@
+.menu {
+	margin: 0;
+	padding: 0;
+	background-color: white;
+
+	.col-sm-6 {
+		margin-top: 5%;
+		padding: 20px;
+
+		.jumbotron {
+
+			padding-bottom: 80px;
+
+			h3 {
+				margin-top: -30px;
+				padding-bottom: 60px;
+			}
+
+			.botoes {
+				.thumbnail {
+
+					height: 40px;
+					display: inline-block;
+					width: 35%;
+					padding-top: 8px;
+
+				}
+
+				a.btn-danger {
+					clear: both;
+					display: inline-block;
+					width: 70%;
+					height: 40px;
+					padding-top: 10px;
+				}
+			}
+		}
+	}
+
+}
